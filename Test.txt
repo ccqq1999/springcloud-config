@@ -8,3 +8,4 @@ https://blog.csdn.net/qq_36079972/article/details/100279562
 
 
 提交失败
+git push 报错：git: 'credential-manager' is not a git command. See 'git --help'.
