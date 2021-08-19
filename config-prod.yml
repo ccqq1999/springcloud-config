@@ -1,0 +1,2 @@
+product-config:
+  info: "java -v  net start mysql"
